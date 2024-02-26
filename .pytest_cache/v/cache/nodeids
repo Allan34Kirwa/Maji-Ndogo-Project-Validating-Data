@@ -1,0 +1,17 @@
+[
+  "validate_data.py::test_crop_types_are_valid",
+  "validate_data.py::test_field_DataFrame_columns",
+  "validate_data.py::test_field_DataFrame_non_negative_elevation",
+  "validate_data.py::test_field_data",
+  "validate_data.py::test_field_data_columns",
+  "validate_data.py::test_field_data_nulls",
+  "validate_data.py::test_field_data_shape",
+  "validate_data.py::test_positive_rainfall_values",
+  "validate_data.py::test_read_field_DataFrame_shape",
+  "validate_data.py::test_read_weather_DataFrame_shape",
+  "validate_data.py::test_weather_DataFrame_columns",
+  "validate_data.py::test_weather_data",
+  "validate_data.py::test_weather_data_columns",
+  "validate_data.py::test_weather_data_nulls",
+  "validate_data.py::test_weather_data_shape"
+]

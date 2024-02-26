@@ -1,0 +1,6 @@
+{
+  "validate_data.py::test_field_data_columns": true,
+  "validate_data.py::test_weather_data_columns": true,
+  "validate_data.py::test_weather_data": true,
+  "validate_data.py::test_field_data": true
+}

@@ -1,0 +1,31 @@
+# Ignore virtual environment
+venv/
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore dependency directories
+Pipfile.lock
+
+# Ignore configuration files
+.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled binaries
+/bin/
+/dist/
+
+# Ignore data files
+data/
+
+# Ignore database file
+Maji_Ndogo_farm_survey_small.db
+
